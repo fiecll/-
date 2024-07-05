@@ -14,7 +14,7 @@ let fallingWords = [];
 
 const player = new Player({
     app: {
-        token: "rR1JoTmnx0KeK0Wn",
+        token: "6OdzAkUG3Vc5B9nJ",
         valenceArousalEnabled: true,
         vocalAmplitudeEnabled: true,
     },
